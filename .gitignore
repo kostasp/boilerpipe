@@ -4,3 +4,8 @@
 target
 .DS_Store
 dependency-reduced-pom.xml
+.idea/
+*.iml
+target/
+workspace.xml
+*.class
